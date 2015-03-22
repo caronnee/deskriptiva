@@ -1,0 +1,1 @@
+Base intersection computation in descriptive geometry
